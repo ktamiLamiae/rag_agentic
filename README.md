@@ -1,0 +1,1 @@
+![démonstration d'un chatbot RAG argentique](image.png)
